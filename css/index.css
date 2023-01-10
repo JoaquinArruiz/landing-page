@@ -211,7 +211,6 @@ body {
 .bottomScreen button {
     font-size: 1em;
     text-align: center;
-    width: auto;
     border: none;
     background: #ffa8e5;
     border-radius: 0.5em;
@@ -220,6 +219,7 @@ body {
     text-decoration: solid;
     font-weight: bold;
     padding: 0.5em;
+    margin-left: 0.6em;
 }
 
 .petItem {
