@@ -24,7 +24,8 @@ body {
 .headerLogo {
     height: 4em;
     width: auto;
-    margin-right: auto;
+    margin-right: 2em;
+    padding: 0em;
 
 }
 
